@@ -1,27 +1,17 @@
-### Hi there 👋
+![Crazy Jack](https://raw.githubusercontent.com/iganbold/iganbold/master/crazy_jack.gif)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
-  <samp>
-I'm Itgel (Jack) Ganbold. I am cloud penetration tester/hacker and software engineer.
-     <br><br>Contact me on <a href="https://twitter.com/itgel_ganbold">Twitter</a>
-  </samp>
-<br><br>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=itgel.ganbold" alt="Visitors Counter">
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/itgel_ganbold?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitgel_ganbold&screen_name=itgel_ganbold) 
+<br><img src="https://visitor-badge.glitch.me/badge?page_id=itgel.ganbold" alt="Visitors Counter">
 
-<!--
-**iganbold/iganbold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Itgel (Jack), passionate software engineer & hacker with robust problem-solving skills and proven experience working with Web, Mobile, Cloud and Cyber Security areas.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📗 Latest Blog posts
+<br>
+
+* [GKE Kubelet TLS Bootstrap Privilege Escalation](https://rhinosecuritylabs.com/cloud-security/kubelet-tls-bootstrap-privilege-escalation/)
+
+* [Exploiting AWS ECR and ECS with
+the Cloud Container Attack Tool (CCAT)](https://rhinosecuritylabs.com/aws/cloud-container-attack-tool/)
+
+
