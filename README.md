@@ -7,7 +7,6 @@ Hi, I'm Itgel (Jack), passionate software engineer & hacker with robust problem-
 
 
 ### 📗 Latest Blog posts
-<br>
 
 * [GKE Kubelet TLS Bootstrap Privilege Escalation](https://rhinosecuritylabs.com/cloud-security/kubelet-tls-bootstrap-privilege-escalation/)
 
