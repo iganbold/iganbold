@@ -1,6 +1,6 @@
 ![Crazy Jack](https://raw.githubusercontent.com/iganbold/iganbold/master/crazy_jack.gif)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/itgel_ganbold?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitgel_ganbold&screen_name=itgel_ganbold) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/jackjack_eth?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitgel_ganbold&screen_name=jackjack) 
 <br><img src="https://visitor-badge.glitch.me/badge?page_id=jackjack_eth" alt="Visitors Counter">
 
 Hi, I'm Itgel (Jack), passionate software engineer & hacker with robust problem-solving skills and proven experience working with Web, Mobile, Cloud and Cyber Security areas.
